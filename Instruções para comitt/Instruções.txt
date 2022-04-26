@@ -1,0 +1,7 @@
+git init - para criar a pasta .git
+
+git comitt
+
+git add
+
+git push
